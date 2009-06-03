@@ -1,4 +1,4 @@
 #rack config file
-require 'hasher'
+require 'redirector'
 run Sinatra::Application
 
